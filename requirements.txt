@@ -1,0 +1,11 @@
+langchain>=0.2.0
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-qdrant
+qdrant-client
+langgraph
+pypdf
+streamlit
+python-dotenv

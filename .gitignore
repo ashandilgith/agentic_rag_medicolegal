@@ -1,0 +1,21 @@
+# Environment Variables
+.env
+.env.*
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Data & Vector Stores (Keep repo lightweight)
+sample_docs/
+qdrant_storage/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
